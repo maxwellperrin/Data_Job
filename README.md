@@ -1,1 +1,11 @@
 # Data_Job
+
+Data Job est une plateforme qui agrège des offres d'emploi spécialisées pour les data analysts en se connectant à quatre sites d'emploi populaires : Pole Emploi, Hello Work, Financial Careers et Talentify. L'objectif est de proposer aux utilisateurs des offres correspondant à leurs compétences, préférences de localisation et choix d'entreprises. Les offres sont constamment mises à jour pour offrir aux utilisateurs les dernières opportunités sur le marché.
+
+Pour collecter les informations pertinentes, Data Job utilise les API des quatre sites mentionnés. Ensuite, la plateforme intègre des techniques de machine learning, notamment le traitement automatique du langage naturel (NLP), pour recommander des offres d'emploi correspondant aux compétences, aux lieux et aux entreprises choisies par l'utilisateur. De plus, elle utilise l'algorithme KNN (k-nearest neighbors) pour suggérer d'autres offres d'emploi susceptibles d'intéresser l'utilisateur, en se basant sur les offres qui lui ont été présentées avec le NLP. En combinant ces technologies, Data Job vise à offrir une expérience personnalisée et efficace aux data analysts à la recherche d'opportunités professionnelles.
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+Data Job is a platform that aggregates job offers specialized for data analysts by connecting to four popular job sites: Pole Emploi, Hello Work, Financial Careers, and Talentify. The goal is to offer users offers that match their skills, location preferences, and choice of companies. The offers are constantly updated to provide users with the latest opportunities on the market.
+
+To collect relevant information, Data Job uses the APIs of the four mentioned sites. Then, the platform integrates machine learning techniques, including Natural Language Processing (NLP), to recommend job offers that match the user's skills, locations, and chosen companies. Additionally, it uses the K-nearest neighbors (KNN) algorithm to suggest other job offers that may interest the user, based on the offers presented to them with NLP. By combining these technologies, Data Job aims to offer a personalized and efficient experience for data analysts looking for professional opportunities.
